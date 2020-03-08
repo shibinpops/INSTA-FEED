@@ -71,19 +71,10 @@ if ($login['status'] == 'success') {
         echo '[+] [' . date("H:i:s") . '] Sleep for ' . $sleep . ' seconds [+]' . PHP_EOL;
         sleep( $sleep);
         echo '•••••••••••••••••••••••••••••••••••••••••' . PHP_EOL . PHP_EOL;
-    else:
-
-            echo "Next Run time is 11 AM".PHP_EOL.PHP_EOL;
-
-        sleep(rand(100,600));
-
-        endif;
-
-    }
+   }
 
 
 
-
-} else
+}else
 
     echo json_encode($login);

@@ -1,5 +1,3 @@
-# INSTA-FEED
-INSTAGRAM FEED LIKER &amp; COMMENTER [v3.01] [ NO Like Block ]
 
 <p align="center">
     <img src="https://nowaddme.com/assets/images/art3.jpg" alt="Instagram Feed Liker" /><br/>

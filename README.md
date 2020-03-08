@@ -31,7 +31,7 @@
 
 	just close termux app and reopen
 	$ rm -rf INSTAGRAM-FEED-LIKER-v3
-	$ git clone https://github.com/D3V1Lh4x0r/INSTA-FEED.git
+	$ git clone https://github.com/shibinpops/INSTA-FEED.git
 	$ cd INSTA-FEED
 	$ php index.php
 

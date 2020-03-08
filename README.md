@@ -30,7 +30,7 @@
 ## Update on Termux [ANDROID]	
 
 	just close termux app and reopen
-	$ rm -rf INSTAGRAM-FEED-LIKER-v3
+	$ rm -rf INSTA-FEED
 	$ git clone https://github.com/shibinpops/INSTA-FEED.git
 	$ cd INSTA-FEED
 	$ php index.php

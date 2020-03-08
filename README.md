@@ -13,7 +13,7 @@ INSTAGRAM FEED LIKER &amp; COMMENTER [v3.01] [ NO Like Block ]
  
 ## Tutorial on Termux Like [ANDROID]
 	$ pkg upgrade && pkg update && pkg install git php
-	$ git clone https://github.com/D3V1Lh4x0r/INSTA-FEED.git
+	$ git clone https://github.com/shibinpops/INSTA-FEED.git
 	$ cd INSTA-FEED
 	$ php index.php
 	
@@ -25,7 +25,7 @@ INSTAGRAM FEED LIKER &amp; COMMENTER [v3.01] [ NO Like Block ]
 	
 ## Tutorial on Termux Comment [ANDROID]
 	$ pkg upgrade && pkg update && pkg install git php
-	$ git clone https://github.com/D3V1Lh4x0r/INSTA-FEED.git
+	$ git clone https://github.com/shibinpops/INSTA-FEED.git
 	$ cd INSTA-FEED
 	$ php index.php
 	
